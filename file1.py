@@ -1,4 +1,4 @@
-CUSTOMER CHURN PREDICTION
+CUSTOMER CHURN PREDICTION SYSTEM
 
 #Importing the dataset
 import pandas as pd
